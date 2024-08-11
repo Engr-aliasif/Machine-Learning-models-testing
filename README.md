@@ -16,3 +16,7 @@ Covid19
  #Linear Regression
  By using Covid19 dataset, the Result is 
  ![Linear Regression](https://github.com/user-attachments/assets/7b21d5bb-b8bf-4490-80cd-c514aaaf6e2e)
+
+#Decision Tree Regression
+By Using Covid Dataset
+![DecisionTreeRegression](https://github.com/user-attachments/assets/dedf2a21-9057-402e-8dfc-4c3fc062e197)
